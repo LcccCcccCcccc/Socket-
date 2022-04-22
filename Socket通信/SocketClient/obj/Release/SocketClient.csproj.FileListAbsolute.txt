@@ -1,0 +1,7 @@
+E:\项目\Socket通信\SocketClient\bin\Release\SocketClient.exe
+E:\项目\Socket通信\SocketClient\bin\Release\SocketClient.pdb
+E:\项目\Socket通信\SocketClient\obj\Release\SocketClient.frmClient.resources
+E:\项目\Socket通信\SocketClient\obj\Release\SocketClient.Properties.Resources.resources
+E:\项目\Socket通信\SocketClient\obj\Release\SocketClient.csproj.GenerateResource.Cache
+E:\项目\Socket通信\SocketClient\obj\Release\SocketClient.exe
+E:\项目\Socket通信\SocketClient\obj\Release\SocketClient.pdb
